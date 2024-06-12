@@ -47,10 +47,10 @@ html = """
   font-size: 100px;
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+    "width" 100;
 }</style>
     <body class="bricolage-grotesque">
-        Webhook Relay
+        <a href="https://github.com/kry0sc0pic/WebhookRelay">Webhook Relay</a>
     </body>
 </html>
 """
